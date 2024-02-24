@@ -1,16 +1,28 @@
-# Password Generator
+# Random Password Generator
 
-This is a simple password generator web application that allows users to generate strong and secure passwords with customizable options. Whether you need a password for your online accounts, applications, or any other purpose, this tool ensures that your passwords are robust and tailored to your specific requirements.
+This is a simple web-based random password generator tool. It allows users to customize the generated password based on their preferences, such as including lowercase letters, uppercase letters, digits, and special characters.
 
 ## Features
 
-- **Customizable Length:** Choose the length of your password using a range slider, allowing you to generate passwords of varying lengths to suit your needs.
-- **Password Options:** Select from a range of options including lowercase letters, uppercase letters, digits, and special characters, giving you full control over the composition of your passwords.
-- **Copy Functionality:** Easily copy generated passwords to your clipboard with the click of a button, streamlining the process of using them across different platforms and applications.
-- **Responsive Design:** Enjoy a seamless user experience across devices with a responsive design that adapts to different screen sizes, ensuring accessibility and usability on desktops, laptops, tablets, and smartphones.
+- Customizable password length.
+- Options to include lowercase letters, uppercase letters, digits, and special characters.
+- Copy generated password to clipboard.
+- Responsive design for various screen sizes.
 
 ## Usage
 
-1. **Clone the Repository:**
+1. Open the [Password Generator](https://ufraan.github.io/random-password-generator/) in your web browser.
+2. Customize your password preferences using the checkboxes provided.
+3. Adjust the password length using the range slider.
+4. Click the "Generate" button to generate a password.
+5. Click the "Copy" button to copy the generated password to the clipboard.
+6. Paste the password wherever you need it.
+
+## Development
+
+If you want to contribute or modify the code:
+
+1. Clone the repository:
+
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/Ufraan/random-password-generator.git
