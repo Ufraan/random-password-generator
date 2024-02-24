@@ -25,4 +25,4 @@ If you want to contribute or modify the code:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/Ufraan/password-generator.git
