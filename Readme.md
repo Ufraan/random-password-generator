@@ -13,4 +13,4 @@ This is a simple password generator web application that allows users to generat
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/Ufraan/password-generator.git
